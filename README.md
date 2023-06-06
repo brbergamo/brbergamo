@@ -1,5 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi,%20I'm%20Beatriz!&fontSize=90&customColorList=1,13)
 <h3 align="center">A passionate Bioinformatics learner from Brazil </h3>
+
+
+
 </a>
 
 - 🔭 I’m currently studying Pharmacy and looking for opportunities to work with bioinfo.

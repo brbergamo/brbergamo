@@ -9,7 +9,7 @@
 
 - 🤝 I’m available for collaborations.
 
-- 🌱 I’m currently learning Python and R.
+- 🌱 I’m currently improving my skills on Python and R.
 
 - 📄 Know about my experiences <a href="colocarlinkdoresume" target="blank">Resume</a>
 <br/>

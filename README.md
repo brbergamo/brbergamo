@@ -7,8 +7,6 @@
 
 - 🔭 I’m currently studying Pharmacy and looking for opportunities to work with bioinfo.
 
-- 🤝 I’m available for collaborations.
-
 - 🌱 I’m currently improving my skills on Python and R.
 
 - 📄 Know about my experiences <a href="colocarlinkdoresume" target="blank">Resume</a>

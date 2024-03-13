@@ -1,6 +1,5 @@
-<img src="images/gut-microbiome-banner-with-abstract-guts-human-intestinal-microbiota-with-healthy-probiotic-bacteria-flat-abstract-medicine-illustration-of-microbiology-checkup-vector.jpg" alt="hi" class="inline"/>
 
-<h3 align="center">A passionate Bioinformatics learner from Brazil </h3>
+<h1 align="center">Hello! </h1>
 
 
 

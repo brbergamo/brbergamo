@@ -1,4 +1,4 @@
-<img src="[images/Emoticons/cool.png](https://static.vecteezy.com/system/resources/previews/010/189/075/original/gut-microbiome-banner-with-abstract-guts-human-intestinal-microbiota-with-healthy-probiotic-bacteria-flat-abstract-medicine-illustration-of-microbiology-checkup-vector.jpg)" alt="hi" class="inline"/>
+<img src="images/gut-microbiome-banner-with-abstract-guts-human-intestinal-microbiota-with-healthy-probiotic-bacteria-flat-abstract-medicine-illustration-of-microbiology-checkup-vector.jpg" alt="hi" class="inline"/>
 
 <h3 align="center">A passionate Bioinformatics learner from Brazil </h3>
 

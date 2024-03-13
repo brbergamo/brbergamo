@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Hi,%20I'm%20Beatriz!&fontSize=90&customColorList=1,13)
+<img src="[images/Emoticons/cool.png](https://static.vecteezy.com/system/resources/previews/010/189/075/original/gut-microbiome-banner-with-abstract-guts-human-intestinal-microbiota-with-healthy-probiotic-bacteria-flat-abstract-medicine-illustration-of-microbiology-checkup-vector.jpg)" alt="hi" class="inline"/>
+
 <h3 align="center">A passionate Bioinformatics learner from Brazil </h3>
 
 

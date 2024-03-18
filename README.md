@@ -1,13 +1,13 @@
 
 <p align="center">
-<img src="https://capsule-render.vercel.app/api?text=Hey,%20I'm Beatriz!&animation=fadeIn&type=waving&color=gradient&height-100"/> 
+<img src="https://capsule-render.vercel.app/api?text=Hey,%20I'm%20Beatriz!&animation=fadeIn&type=waving&color=gradient&height-100"/> 
  </p>
 
 
 
 </a>
 
-<p align="center">  I’m a Brazilian girl who studied Pharmacy and fell  head over heels for bioinformatics. </p> 
+<p align="center">I'm a Brazilian gal who delved into Pharmacy and found her heart captivated by the world of bioinformatics. </p> 
 
 
 - I’m currently improving my skills on Python and R.

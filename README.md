@@ -9,10 +9,6 @@
 
 <p align="center">I'm a Brazilian gal who took a dive into Pharmacy and ended up completely hooked on the wild ride of bioinformatics. You'll usually find me geeking out over unraveling medical issues with data analysis. And, as any good Brazilian knows, my fuel of choice is copious amounts of black coffee! Let's brew some insights together! ☕</p> 
 
-
-- I’m currently improving my skills on Python and R.
-
-- 📄 Know about my experiences <a href="colocarlinkdoresume" target="blank">Resume</a>
 <br/>
 
 ## What I've been listening to:

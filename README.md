@@ -8,7 +8,7 @@
 </a>
 
 <p align="center">
-Hi, I'm a pharmacist-turned-bioinformatician passionate about building pipelines, analyzing biological data, and uncovering meaningful insights. I thrive on solving medical questions through data and, like any true bioinformatician, I'm powered by black coffee ☕.  
+I'm a pharmacist-turned-bioinformatician passionate about building pipelines, analyzing biological data, and uncovering meaningful insights. I thrive on solving medical questions through data and, like any true bioinformatician, I'm powered by black coffee ☕.  
 <br><br>
 My experience spans multi-omics data analysis, including 16S and shotgun metagenomics, bulk and single-cell RNA-seq, and untargeted metabolomics.  
 <br><br>
